@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JFrame/JFrame.iml" filepath="$PROJECT_DIR$/JFrame/JFrame.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/SoSe-26-Programmieren2-AnneK.iml" filepath="$PROJECT_DIR$/.idea/SoSe-26-Programmieren2-AnneK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoSe-26-Programmieren2-AnneK.iml" filepath="$PROJECT_DIR$/SoSe-26-Programmieren2-AnneK.iml" />
     </modules>
   </component>
 </project>
