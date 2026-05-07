@@ -1,2 +1,3 @@
-/out/
-/.idea/
+./.idea
+./out/*
+WS-25-26-AnneK.iml
